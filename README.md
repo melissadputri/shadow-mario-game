@@ -6,6 +6,7 @@
 * **res** : contains images and initial coordinate points for corresponding levels.
 * **src** : contains Java classes to build the game
 * **target** : contains the generated Java classes
+* **UML_diagram.drawio** : Raw file of the UML diagram for the initial game design.
 
 ## Instructions
 This game was developed and run through IntelliJ. Please visit the main class **ShadowMario.java** to run the game.
